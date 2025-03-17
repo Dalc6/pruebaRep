@@ -64,7 +64,10 @@ public class Date {
     this.day = day;
     this.month = month;
     this.year = year;
+<<<<<<< HEAD
 
+=======
+>>>>>>> 7efbf4c076ba971ddb7c442ef04efd283361a6cc
   }
 
 
